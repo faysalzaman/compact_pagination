@@ -1,4 +1,4 @@
-# 0.1.1
+# 0.1.2
 
 - Add package screenshots and an animated pagination demo.
 - Improve package metadata and license details.
