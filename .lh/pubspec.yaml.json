@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 1,
+            "activePatchIndex": 3,
             "patches": [
                 {
                     "date": 1794748912715,
@@ -12,6 +12,14 @@
                 {
                     "date": 1794748926307,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,14 +2,10 @@\n description: >-\n   A compact, theme-aware Flutter pagination control with numbered pages,\n   page-size selection, and localized labels.\n version: 0.1.0\n-repository: description: >-\n-  A compact, theme-aware Flutter pagination control with numbered pages,\n-  page-size selection, and localized labels.\n-repository: https://github.com/faysalzaman/compact_pagination\n+repository: https://github.com/faysalzaman/compact_pagination.git\n issue_tracker: https://github.com/faysalzaman/compact_pagination/issues\n-issue_tracker: https://github.com/faysalzaman/compact_pagination/issues\n topics:\n   - pagination\n   - widgets\n   - flutter\n"
+                },
+                {
+                    "date": 1794749875238,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,9 +2,9 @@\n description: >-\n   A compact, theme-aware Flutter pagination control with numbered pages,\n   page-size selection, and localized labels.\n version: 0.1.0\n-repository: https://github.com/faysalzaman/compact_pagination.git\n+repository: https://github.com/faysalzaman/compact_pagination\n issue_tracker: https://github.com/faysalzaman/compact_pagination/issues\n topics:\n   - pagination\n   - widgets\n@@ -21,4 +21,5 @@\n dev_dependencies:\n   flutter_test:\n     sdk: flutter\n   flutter_lints: ^6.0.0\n+\n"
+                },
+                {
+                    "date": 1794749881804,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -22,5 +22,6 @@\n   flutter_test:\n     sdk: flutter\n   flutter_lints: ^6.0.0\n \n-scree\n\\ No newline at end of file\n+screenshots:\n+  - screenshot1.png\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1794748912715,

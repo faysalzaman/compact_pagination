@@ -22,3 +22,15 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^6.0.0
+
+screenshots:
+  - description: 'Page navigation with ellipses and a selected page number.'
+    path: screenshots/01_pagination.png
+  - description: 'Choose a page size from 10, 20, 50, or 100 items.'
+    path: screenshots/02_page_size.png
+  - description: 'Pagination controls adapting to a dark theme.'
+    path: screenshots/04_dark.png
+  - description: 'Pagination controls arranged for an Arabic right-to-left layout.'
+    path: screenshots/05_rtl_arabic.png
+  - description: 'Animated demonstration of page navigation and page-size selection.'
+    path: screenshots/demo.gif
