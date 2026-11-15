@@ -1,3 +1,7 @@
+# 0.1.3
+
+- Show pagination screenshots and the animated demo in the README.
+
 # 0.1.2
 
 - Add package screenshots and an animated pagination demo.

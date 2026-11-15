@@ -8,6 +8,18 @@ The package has no third-party runtime dependencies. It reads colors and text
 styles from the active Flutter `ThemeData` and follows the current text
 direction, including RTL layouts.
 
+## Screenshots
+
+| Page navigation | Page-size selection |
+| --- | --- |
+| ![Page navigation with ellipses and the current page selected](https://raw.githubusercontent.com/faysalzaman/compact_pagination/main/screenshots/01_pagination.png) | ![Page-size selection menu](https://raw.githubusercontent.com/faysalzaman/compact_pagination/main/screenshots/02_page_size.png) |
+| Dark theme | Arabic right-to-left layout |
+| ![Pagination controls in a dark theme](https://raw.githubusercontent.com/faysalzaman/compact_pagination/main/screenshots/04_dark.png) | ![Pagination controls in an Arabic right-to-left layout](https://raw.githubusercontent.com/faysalzaman/compact_pagination/main/screenshots/05_rtl_arabic.png) |
+
+### Animated demo
+
+![Page navigation and page-size selection in action](https://raw.githubusercontent.com/faysalzaman/compact_pagination/main/screenshots/demo.gif)
+
 ## Installation
 
 After publishing, add the package to your app:
@@ -20,7 +32,7 @@ Or add it to `pubspec.yaml` manually:
 
 ```yaml
 dependencies:
-  compact_pagination: ^0.1.1
+  compact_pagination: ^0.1.3
 ```
 
 ## Usage
