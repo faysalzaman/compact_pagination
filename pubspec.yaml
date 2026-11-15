@@ -1,6 +1,10 @@
 name: compact_pagination
-description: A compact, theme-aware pagination control for Flutter apps.
+description: >-
+  A compact, theme-aware Flutter pagination control with numbered pages,
+  page-size selection, and localized labels.
 version: 0.1.0
+repository: https://github.com/faysalzaman/compact_pagination
+issue_tracker: https://github.com/faysalzaman/compact_pagination/issues
 topics:
   - pagination
   - widgets

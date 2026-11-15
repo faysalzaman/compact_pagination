@@ -82,4 +82,4 @@ See `example/lib/main.dart` for a complete runnable example.
 
 ## License
 
-BSD 3-Clause. Replace the copyright placeholders in `LICENSE` before publishing.
+BSD 3-Clause. See the [LICENSE](LICENSE) file.
