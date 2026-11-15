@@ -20,7 +20,7 @@ Or add it to `pubspec.yaml` manually:
 
 ```yaml
 dependencies:
-  compact_pagination: ^0.1.0
+  compact_pagination: ^0.1.1
 ```
 
 ## Usage
